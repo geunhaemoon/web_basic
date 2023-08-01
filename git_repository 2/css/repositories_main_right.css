@@ -1,0 +1,83 @@
+
+.repositories_main-options{
+    width: 100%;
+    display: flex;
+    padding: 16px 0px;
+    justify-content: space-between;
+    border-bottom: 1px solid #dbdbdb;
+    
+}
+.search-text{
+    width: 60%;
+    float: left;
+}
+
+.find-repository-input{
+    margin-right: 10px;
+    border: 1px solid #dbdbdb;
+    border-radius: 6px;
+    width: 100%;
+}
+
+.btn-wrapper{
+    width: 40%;
+    float: right;
+}
+.btn-wrapper button {
+    margin: 1px;
+
+}
+.text-list-each{
+   margin-bottom: 20px;
+   border-bottom: 1px solid #dbdbdb;
+   display: flex;
+   flex-wrap: wrap;
+}
+.text-list{
+    margin: 15px;
+}
+
+.text-list-text{
+    width: 70%;
+    position: relative;
+
+}
+
+
+.text-list-btn-container{
+    
+    width: 20%;
+    margin: 10px;
+    border: 10px;
+
+
+}
+
+
+.text-list-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.text-list-introduction{
+    font-size: 12px;
+    margin: 5px 0px;
+}
+
+.text-list-plus{
+    margin-top: 15px;
+    font-size: 10px;
+}
+
+.text-category-update{
+
+    margin-left: 10px;
+    
+}
+.text-list-btn{
+
+    padding: 2px;
+
+    
+}
